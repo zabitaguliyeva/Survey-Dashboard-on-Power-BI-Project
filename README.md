@@ -6,14 +6,14 @@ This dashboard provides a breakdown of the results from a data professional surv
 
 ## Data Visualizations
 
-- **Average Salary by Job Title**: A bar chart that shows the average salary for each job title.
-- **Country of Survey Takers**: A bar chart that shows the number of survey takers from each country.
-- **Count of Survey Takers**: A table that shows the number of survey takers for each job title.
-- **Average Age of Survey Takers**: A table that shows the average age of survey takers for each job title.
-- **Happiness with Work/Life Balance**: A pie chart that shows the percentage of survey takers who are happy with their work/life balance.
-- **Favorite Programming Language**: A bar chart that shows the favorite programming language of survey takers.
+- **Average Salary by Job Title**: A Clustred bar chart that shows the average salary for each job title.
+- **Country of Survey Takers**: A Treemap chart that shows the number of survey takers from each country.
+- **Count of Survey Takers**: Shows the number of survey takers for each job title.
+- **Average Age of Survey Takers**: Shows the average age of survey takers for each job title.
+- **Happiness with Work/Life Balance**: A Gauge chart that shows the percentage of survey takers who are happy with their work/life balance.
+- **Favorite Programming Language**: A Stacked Column chart that shows the favorite programming language of survey takers.
 - **Difficulty to Break into Data**: A pie chart that shows the percentage of survey takers who found it difficult to break into data.
-- **Happiness with Salary**: A pie chart that shows the percentage of survey takers who are happy with their salary.
+- **Happiness with Salary**: A Gauge chart that shows the percentage of survey takers who are happy with their salary.
 
 ## How to Download and Use
 
