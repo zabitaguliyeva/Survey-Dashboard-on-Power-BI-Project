@@ -43,5 +43,5 @@ If you have any questions about this dashboard, please contact:
 
 - **Name**: [Zabita Guliyeva]
 - **Email**: [guliyevazabitaa@gmail.com]
-- **GitHub**: [Your GitHub Profile](https://github.com/zabitaguliyeva)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/zabita-quliyeva-43b96b21a/)
+- **GitHub**: [My Github Profile](https://github.com/zabitaguliyeva)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/zabita-quliyeva-43b96b21a/)
