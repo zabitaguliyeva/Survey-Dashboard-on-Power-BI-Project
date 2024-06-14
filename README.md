@@ -32,10 +32,6 @@ This dashboard is available on GitHub. To download it, follow these steps:
     - **Download ZIP**: Click the green "ZIP" button to download a compressed file of the entire repository.
     - **Clone with HTTPS**: Copy the HTTPS URL provided. You can use this URL with Git tools to clone the repository directly to your local machine.
 
-## Additional Notes
-
-- The data for this dashboard is from a sample survey and may not be representative of the entire data professional population.
-- This dashboard is a work in progress and may be updated in the future.
 
 ## Contact
 
